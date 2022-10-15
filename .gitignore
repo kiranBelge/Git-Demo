@@ -1,0 +1,3 @@
+# ignore java and xml file to commit in central repo
+*.java
+*.xml
